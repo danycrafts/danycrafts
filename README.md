@@ -79,24 +79,24 @@ I maintain several GitHub organizations focused on different domains. Check out 
 
 | Organization | Description | Live Site |
 |:-------------|:------------|:---------:|
-| **🧠 CodeGraft AI** | Structural integrity for modern software — ensuring architectural coherence in high-velocity engineering teams | [🌐 Visit](https://codegraftai.github.io/codegraftai) |
-| **📚 Inspire Learning AI** | AI-powered educational platforms and content generation — transforming the way we learn and teach | [🌐 Visit](https://inspirelearningai.github.io/inspirelearningai) |
-| **🕸️ FactWeaver AI** | Truth-verification engine and knowledge synthesis — ensuring truth in the age of synthetic information | [🌐 Visit](https://factweaverai.github.io/factweaverai) |
-| **🌾 Peasants AI** | Democratizing AI for the community and small-scale developers — bringing powerful AI tools to everyone | [🌐 Visit](https://peasantsai.github.io/peasantsai) |
-| **🤖 Orthyx AI** | Intelligent automation and robotic process optimization — streamlining operations with advanced AI | [🌐 Visit](https://orthyxai.github.io/orthyxai) |
+| **🧠 CodeGraft AI** | Structural integrity for modern software — ensuring architectural coherence in high-velocity engineering teams | [🌐 Visit](https://codegraftai.invariantcontinuum.com) |
+| **📚 Inspire Learning AI** | AI-powered educational platforms and content generation — transforming the way we learn and teach | [🌐 Visit](https://inspirelearningai.invariantcontinuum.com) |
+| **🕸️ FactWeaver AI** | Truth-verification engine and knowledge synthesis — ensuring truth in the age of synthetic information | [🌐 Visit](https://factweaverai.invariantcontinuum.com) |
+| **🌾 Peasants AI** | Democratizing AI for the community and small-scale developers — bringing powerful AI tools to everyone | [🌐 Visit](https://peasantsai.invariantcontinuum.com) |
+| **🤖 Orthyx AI** | Intelligent automation and robotic process optimization — streamlining operations with advanced AI | [🌐 Visit](https://orthyxai.invariantcontinuum.com) |
 
 ### ☁️ Cloud & Infrastructure
 
 | Organization | Description | Live Site |
 |:-------------|:------------|:---------:|
-| **🦉 Hyperscaler Owl** | Cloud infrastructure management and automation — simplifying hyperscale deployments for modern enterprises | [🌐 Visit](https://hyperscalerowl.github.io/hyperscalerowl) |
-| **⚛️ Invariant Continuum** | Robust, formally verified software systems — building the foundation of reliable and mathematical software engineering | [🌐 Visit](https://invariantcontinuum.github.io/invariantcontinuum) |
+| **🦉 Hyperscaler Owl** | Cloud infrastructure management and automation — simplifying hyperscale deployments for modern enterprises | [🌐 Visit](https://hyperscalerowl.invariantcontinuum.com) |
+| **⚛️ Invariant Continuum** | Robust, formally verified software systems — building the foundation of reliable and mathematical software engineering | [🌐 Visit](https://invariantcontinuum.com) |
 
 ### 🚗 Automotive & IoT
 
 | Organization | Description | Live Site |
 |:-------------|:------------|:---------:|
-| **🚙 BimmerCodes** | Democratizing vehicle intelligence for BMW enthusiasts — bridging the gap between modern BMW owners and complex automotive electronics | [🌐 Visit](https://bimmercodes.github.io/bimmercodes) |
+| **🚙 BimmerCodes** | Democratizing vehicle intelligence for BMW enthusiasts — bridging the gap between modern BMW owners and complex automotive electronics | [🌐 Visit](https://bimmercodes.invariantcontinuum.com) |
 
 ---
 
