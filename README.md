@@ -71,32 +71,51 @@ I'm a passionate **Software Developer** and **DevOps Engineer** with expertise i
 
 ---
 
+## 📜 Certifications & Badges
+
+<div align="center">
+  <a href="https://credly.com/users/daniyal-ibrahim.a4d700a1">
+    <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-dec433574004/AWS-Certified-DevOps-Engineer-Professional.png" width="100" alt="AWS DevOps Engineer Professional" />
+  </a>
+  <a href="https://credly.com/users/daniyal-ibrahim.a4d700a1">
+    <img src="https://images.credly.com/images/b9feab85-1a4a-4f23-99a9-7730aa57d7d8/AWS-Certified-Developer-Associate.png" width="100" alt="AWS Developer Associate" />
+  </a>
+  <a href="https://credly.com/users/daniyal-ibrahim.a4d700a1">
+    <img src="https://images.credly.com/images/00634f23-b408-4215-9718-b203e2db37d8/AWS-Certified-Cloud-Practitioner.png" width="100" alt="AWS Cloud Practitioner" />
+  </a>
+  <a href="https://credly.com/users/daniyal-ibrahim.a4d700a1">
+    <img src="https://images.credly.com/images/d27b8174-ef20-46bd-9d81-ee05e9c349e8/Building-with-the-Claude-API.png" width="100" alt="Building with the Claude API" />
+  </a>
+</div>
+
+---
+
 ## 🌐 My Organizations & Live Projects
 
-I maintain several GitHub organizations focused on different domains. Check out their live landing pages:
+I maintain several GitHub organizations focused on different domains. Each landing page now supports **Dark/Light Mode** and **i18n (EN, DE, FR, ES)**.
 
 ### 🤖 AI & Machine Learning
 
 | Organization | Description | Live Site |
 |:-------------|:------------|:---------:|
-| **🧠 CodeGraft AI** | Structural integrity for modern software — ensuring architectural coherence in high-velocity engineering teams | [🌐 Visit](https://codegraftai.invariantcontinuum.com) |
-| **📚 Inspire Learning AI** | AI-powered educational platforms and content generation — transforming the way we learn and teach | [🌐 Visit](https://inspirelearningai.invariantcontinuum.com) |
-| **🕸️ FactWeaver AI** | Truth-verification engine and knowledge synthesis — ensuring truth in the age of synthetic information | [🌐 Visit](https://factweaverai.invariantcontinuum.com) |
-| **🌾 Peasants AI** | Democratizing AI for the community and small-scale developers — bringing powerful AI tools to everyone | [🌐 Visit](https://peasantsai.invariantcontinuum.com) |
-| **🤖 Orthyx AI** | Intelligent automation and robotic process optimization — streamlining operations with advanced AI | [🌐 Visit](https://orthyxai.invariantcontinuum.com) |
+| **🧠 CodeGraft AI** | Structural integrity for modern software | [🌐 Visit](https://codegraftai.invariantcontinuum.com) |
+| **📚 Inspire Learning AI** | AI-powered educational platforms | [🌐 Visit](https://inspirelearningai.invariantcontinuum.com) |
+| **🕸️ FactWeaver AI** | Truth-verification engine and knowledge synthesis | [🌐 Visit](https://factweaverai.invariantcontinuum.com) |
+| **🌾 Peasants AI** | Democratizing AI for the community | [🌐 Visit](https://peasantsai.invariantcontinuum.com) |
+| **🤖 Orthyx AI** | Intelligent automation and robotic process optimization | [🌐 Visit](https://orthyxai.invariantcontinuum.com) |
 
 ### ☁️ Cloud & Infrastructure
 
 | Organization | Description | Live Site |
 |:-------------|:------------|:---------:|
-| **🦉 Hyperscaler Owl** | Cloud infrastructure management and automation — simplifying hyperscale deployments for modern enterprises | [🌐 Visit](https://hyperscalerowl.invariantcontinuum.com) |
-| **⚛️ Invariant Continuum** | Robust, formally verified software systems — building the foundation of reliable and mathematical software engineering | [🌐 Visit](https://invariantcontinuum.com) |
+| **🦉 Hyperscaler Owl** | Cloud infrastructure management and automation | [🌐 Visit](https://hyperscalerowl.invariantcontinuum.com) |
+| **⚛️ Invariant Continuum** | Robust, formally verified software systems | [🌐 Visit](https://invariantcontinuum.com) |
 
 ### 🚗 Automotive & IoT
 
 | Organization | Description | Live Site |
 |:-------------|:------------|:---------:|
-| **🚙 BimmerCodes** | Democratizing vehicle intelligence for BMW enthusiasts — bridging the gap between modern BMW owners and complex automotive electronics | [🌐 Visit](https://bimmercodes.invariantcontinuum.com) |
+| **🚙 BimmerCodes** | Democratizing vehicle intelligence for BMW enthusiasts | [🌐 Visit](https://bimmercodes.invariantcontinuum.com) |
 
 ---
 
@@ -116,11 +135,17 @@ I maintain several GitHub organizations focused on different domains. Check out 
   <a href="https://github.com/danycrafts">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:contact@danycrafts.com">
+  <a href="mailto:hello@danycrafts.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/danycrafts">
+  <a href="https://linkedin.com/in/daniyal-ibrahim">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@daniyal.ibrahim10">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://credly.com/users/daniyal-ibrahim.a4d700a1">
+    <img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
   </a>
 </p>
 
